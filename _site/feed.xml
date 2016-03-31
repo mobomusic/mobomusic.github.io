@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monica Bolles</title>
+    <description>This is an expression of me.  Here you may find my art, my life, my love.   Most importantly the conversations of an artist in the world of science.   
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 30 Mar 2016 22:39:11 -0600</pubDate>
+    <lastBuildDate>Wed, 30 Mar 2016 22:39:11 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Build Your Own Arduino</title>
+        <description>	&lt;p&gt;Today we learned how to build our own Arduino by understanding the basis of what makes an arduino work: The ATMega328 microprocessor chip.  This chip is what allows us to program and control the arudino.&lt;/p&gt;  
+
+	&lt;p&gt;If you are used to working with the Arudino the ATMega328 chip will actually make a lot of sense and is fairly approachable to work with.  The pinout on the arduino is identical to the ATmega328 chip.  The only difference working with the chip is that you have to add your own resistance, capacitance, and will need an FTDI programer to program it, this is as long as it has the bootloader already loaded on.  If that is not the case you will need to take a few more steps, which we didn&#39;t walk through.&lt;/p&gt;
+
+	&lt;p&gt;The best reason for stripping the ATMega328 from the arduino is to be able to create a smaller ciruit or to be able to build your own circuit.  This is great when you are trying to minimize your footprint to fit your circuit into something small, or if you are building a large install and need to use multiple circuit boards which can get pretty expensive if you are buying multiple Arduinos at around $25.00 a pop.&lt;/p&gt;
+
+	&lt;p&gt;&lt;b&gt;Below is a video of the ATMega328 blinking an LED:&lt;/b&gt;&lt;/p&gt;
+
+
+	&lt;video align = &quot;middle&quot; width=&quot;288&quot; height=&quot;512&quot; controls &gt;
+  	&lt;source src=&quot;/media/ATMegaBlink.mp4&quot; type=&quot;video/mp4&quot;&gt;
+  	&lt;!-- &lt;source src=&quot;/media/Distortion_Pedal.webm&quot; type=&quot;video/webm&quot;&gt; --&gt;
+	Your browser does not support the video tag.
+  	&lt;/video&gt;</description>
+        <pubDate>Thu, 10 Mar 2016 09:19:48 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2016/03/10/Build-Your-Own-Arduino.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/03/10/Build-Your-Own-Arduino.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Measurements</title>
+        <description>&lt;body&gt;
+
+    &lt;!-- MAIN CONTENT --&gt;
+    
+    &lt;p&gt;Being able to measure and test your signals becomes super useful in helping troubleshoot and figure out what is wrong with your project.  Wayne Seltzer stepped in to help us go over measuring signals and discussing the different kinds of techniques used to analalyze and test your signal.&lt;/p&gt;
+
+    &lt;p&gt;Multimeters are your friend!  Probably the most useful function of a multimeter is measuring continuity.  This function allows you to tell if your two points are connected.  If they are not connected then there is obviously something wrong with your circuit.  Multimeters can also measure resistance, voltage, and current!&lt;/p&gt;
+
+    &lt;p&gt;The other fun and awesome measurement tool is the Oscilliscope.  We took out this four channel oscilliscope and decided to use it to view the current coming out of the wall.  This is not something I recommend anyone to do that doesn&#39;t have someone who knows what they are doing with them.&lt;/p&gt; 
+
+    &lt;p&gt;Wayne had brought what he called a &quot;suicide chord&quot; in for show and tell.  This was just a plug with the ends cut off.  We hooked it up to a transformer and then measured the signal off of that.  The AC current out of the wall creates a beautiful sine wave.  We then added a capacitor into the equation and it caused the tops of the waves to get cut off.&lt;/p&gt;  
+
+    &lt;p&gt;It is very interesting being able to visualize what is happening with a signal when you add different electrical components to it.  Being able to see the actual wave helps in understanding what is actually happening when you are adding components together.&lt;/p&gt;
+ 
+
+    &lt;img src=&quot;/media/IMG_1043.jpg&quot; style= &quot;width: 308px; height; 204px&quot;&gt;
+    &lt;img src=&quot;/media/IMG_1044.jpg&quot; style= &quot;width: 308px; height; 204px&quot;&gt;
+
+  &lt;/body&gt;</description>
+        <pubDate>Thu, 18 Feb 2016 15:19:23 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2016/02/18/Measurements.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/02/18/Measurements.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>555 Timers and Square Waves</title>
+        <description>&lt;body&gt;
+
+    &lt;!-- MAIN CONTENT --&gt;
+    
+    &lt;p&gt;This week I learned that Capacitors are pretty awesome and they keep getting cooler.&lt;/p&gt;  
+
+    &lt;p&gt;The 555 Timer is an integrated circuit that creates a series of on and off signals that form what is known as a square wave.  What does this have to do with a capacitor?  Well let me tell you.  Capacitors are made of usually two metal plates that are seperated by a gap.  Each plate stores opposing charges. Because of this a capacitor can be charged and discharged.  The rate that a capacitor charges and discharges forms a more logarithmic based graph. &lt;/p&gt;
+
+    &lt;p&gt;The 555 Timer uses a capacitor by setting a low and a high threshold on the charge of the capacitance.  When the capacitor is charged to a certain level it triggers the 555 Timer to flip to an on state and if the 555 Timer reaches the other threshold the circuit switches to an off state.  This switching creates a square shaped wave.  You can then control the frequency of this wave by varying the resistance.&lt;/p&gt;
+ 
+ 	&lt;p&gt;&lt;b&gt;Below is a video showcasing what a varying frequency square wave sounds like:&lt;/b&gt;&lt;/p&gt;
+
+   &lt;video align = &quot;middle&quot; width=&quot;640&quot; height=&quot;480&quot; controls &gt;
+  	&lt;source src=&quot;/media/Square_Wave.mp4&quot; type=&quot;video/mp4&quot;&gt;
+	Your browser does not support the video tag.
+  	&lt;/video&gt;
+
+  &lt;/body&gt;</description>
+        <pubDate>Thu, 11 Feb 2016 15:19:23 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2016/02/11/555-Timers-and-Square-Waves.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/02/11/555-Timers-and-Square-Waves.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Transistors and Distortion Pedals</title>
+        <description>&lt;body&gt;
+
+    &lt;!-- MAIN CONTENT --&gt;
+    
+    &lt;p&gt;Transistors are at the basis of amplification.  With a transistor you can take a smaller voltage and increase it to a larger and workable voltage.  This is important if you are trying to take something like a weak audio signal and make it louder.  Many amps do multiple stages of this so that the noise floor doesn&#39;t carry into the final signal.  Transistors are what allow this amplification process to occur.   
+
+    &lt;p&gt;There are two kinds of transistors, a bipolar transistor and a field effect transistor.  We mostly focused on the bipolar transistor. The bipolar transistor has three terminals, the emitter, base, and collector.  By turning the base on and off you can actually use the transistor as a switch. &lt;/p&gt;
+
+    &lt;p&gt;By varying the resistance you can control how much voltage is traveling across the base and emitter.  If the voltage reaches a certain level it will cause the transistor to begin &quot;clipping&quot; the signal.  This is where the top and bottom of the output signal is flattened and causes the tone of the sound to become distorted.  Whether distortion is a desired tone or not is dependent on the style of music.&lt;/p&gt;
+
+    &lt;p&gt;&lt;b&gt;Below is a video of a distortion circuit that I made:&lt;/b&gt;&lt;/p&gt;
+ 
+
+    &lt;video align = &quot;middle&quot; width=&quot;288&quot; height=&quot;512&quot; controls &gt;
+  	&lt;source src=&quot;/media/Distortion_Pedal.mp4&quot; type=&quot;video/mp4&quot;&gt;
+	Your browser does not support the video tag.
+  	&lt;/video&gt;
+
+  &lt;/body&gt;</description>
+        <pubDate>Thu, 28 Jan 2016 15:19:23 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2016/01/28/Transistors-and-Distortion-Pedals.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/01/28/Transistors-and-Distortion-Pedals.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Building Analog Audio Filters</title>
+        <description>  &lt;body&gt;
+
+    &lt;!-- MAIN CONTENT --&gt;
+    
+    &lt;p&gt;It was the first official day of our practical electronics course, kindly hosted by Abhishek Narula, and we were to learn about capacitors, potentiometers, and how to build a high pass and low pass filter.  Now this was exciting.  I come from an audio engineering and music production background and filters are something I use on an everyday basis.  Today I would learn how these filters were traditionally created in the analog world.&lt;/p&gt;
+
+   &lt;p&gt;To begin to understand how an audio filter is built it is important to recognize this equation: $$fc = 1/2πRC$$ This is where $fc$ equals the cutoff frequency, $R$ equals the resistance, and $C$ equals the capacitance.  This equation demonstrates that by changing either the resistance or the capacitance that you are altering the cutoff frequency. If we add a potentiometer in series with a capacitor we can change the value of the cutoff frequency, by varying the resistance.&lt;/p&gt;
+
+   &lt;p&gt;Let&#39;s talk about potentiometers.  What is a potentiometer you ask?  Well a potentiometer is a variable resistor.  This means that it allows you to vary the amount of resistance just by turning a knob. There are four kinds of potentiometers. The two most common and most applicable to our purposes are: A log potentiometer which changes the amount of resistance by a logarithmic scale, and a linear potentiometer which changes the amount of resistance by a linear scale. The log potentiometer is the most commonly used potentiometer for audio related applications because audio loudness is typically measured logarithmically.&lt;/p&gt;
+
+   &lt;p&gt;To change the filter from a highpass to a lowpass filter or vice versa all you need to do is change the location of the resistor in relationship to the capacitor.  If the resistor is before the capacitor in the circuit you have a low pass filter.  If it is after the capacitor you have a high pass filter.&lt;/p&gt;
+
+   &lt;p&gt;&lt;b&gt;Below is a video demonstrating the final circuit in action:&lt;/b&gt;&lt;/p&gt;
+    
+    &lt;video width=&quot;640&quot; height=&quot;480&quot; controls &gt;
+  	&lt;source src=&quot;/media/Filters.mp4&quot; type=&quot;video/mp4&quot;&gt;
+	Your browser does not support the video tag.
+  	&lt;/video&gt;
+
+  &lt;/body&gt;</description>
+        <pubDate>Thu, 21 Jan 2016 15:19:23 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2016/01/21/Building-Analog-Audio-Filters.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/01/21/Building-Analog-Audio-Filters.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
