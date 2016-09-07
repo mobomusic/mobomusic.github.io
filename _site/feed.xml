@@ -6,34 +6,74 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Mar 2016 22:39:11 -0600</pubDate>
-    <lastBuildDate>Wed, 30 Mar 2016 22:39:11 -0600</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Sat, 03 Sep 2016 22:00:50 -0600</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2016 22:00:50 -0600</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Reproduction of Art and Reality</title>
+        <description>&lt;p&gt;I find the constant need and “desire” of humans to reproduce not only art but also reality to be an intriguing observation.  Walter Benjamin in his paper The Work of Art in the Age of Mechanical Reproduction discusses at great length the rise of techniques and technologies that are used in creating numerous reproductions as to meet “the desire of contemporary masses to bring things “closer” spatially and humanly.”  This desire as well as the advances of technology continues on even in our “contemporary” age.  One thing Benjamin fails to mention in his paper, however; is that even original art is many times a reproduction of our world around us.  While we as humans have a desire to bring pieces of art “closer” through reproduction and mass marketing, we also have a desire to bring our world “closer”.  We build technologies that will then help us in achieving capturing a moment in time in the realest sense possible.&lt;/p&gt;
+
+&lt;p&gt;Painting a picture was one of the first methods for reproducing reality.  People would paint a picture to capture a landscape, a person, or a moment.  Painting a picture was used in similar fashion as photography has also been used for capturing reality.  Walter Benjamin comments on how an original and “authentic” painting has “a presence in time and space, a unique existence at the place where it happens to be.”  He argues that because we can use various techniques to date a painting these “authentic” paintings are therefore more connected to the time in which they were created.  This brings up an interesting point when he shifts his discussion to that of photography.  We are now left to question if photography is less “authentic” and maybe even less artful then a painting, because it cannot be branded in time and can be reproduced infinitely. At this point I would comment that a painting is just as much of an expression of reality as a photograph, and is still only a method for capturing and reproducing our reality.  Just because we can approximate the time in which an original painting was created does not mean that it serves any greater of a purpose to photography.&lt;/p&gt;
+
+&lt;p&gt;He also argues that an original piece of art has an “aura” that cannot be recreated in a reproduction.  Again he fails to mention how the art is also lacking the “aura” of the reality that it was reproducing.  It is still very much one person’s perspective at attempting to recreate, reproduce, and bring “closer” our natural and physical world.&lt;/p&gt;
+
+&lt;p&gt;Most recently, with the introduction of digital technology we have moved into an age where we recreate reality with algorithms and physical models of the world.  What is interesting about using this technological direction in attempts at reproducing our environment is that it is almost solely based on logic and arithmetic.  In 1945 Dr. Bush had exclaimed in his paper As We May Think, “If scientific reasoning were limited to the logical processes of arithmetic, we should not get far in our understanding of the physical world.”  Yet this is exactly what we have done with digital technology.  The one element that paintings and photography have that digital technology seems to starkly lack is the artist themselves.  The painter or the photographer has a unique perspective on the time and place in which they are capturing their image.  No matter if the art is “authentic” or reproduced the presence of the artist is felt by the perspective in which they specifically chose to document the reality around them.  In the digital world the human element has been mostly forgot and time and presence fail to exist.  In the digital world the algorithms become the artist.&lt;/p&gt;
+
+&lt;p&gt;With the advent of digital technology, we have been able to create and reproduce reality to a level where it has even started replacing our actual reality.  Virtual reality is the new hot topic as we attempt to place people into 3Dimensional representations of the world, however; we forget to recognize that virtual reality has been in effect ever since the advancement of digital technology.  We have created virtual worlds, communities, and profiles using digital technology.  People build social media profiles that represent a virtual self, an image that is then perceived an interpreted by others as a realistic visual of that person’s self.  We have created sound and visuals that people interpret as reality.  In our attempts at bringing reality “closer” we have begun to create new realities.&lt;/p&gt;
+
+&lt;p&gt;While our desire to reproduce the things we see around us is still in question it can be said, with great certainty, that through this desire we have evolved not only the means for reproduction but also our own perceptions and ways of interaction.  Through our striving to understand and recreate reality we have broken the laws of time and space.  What this means for the advancement of future perceptions and art can only be speculated.  But it is with no argument that these advances in technology will change the movement and direction of humanity as a whole.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 02 Sep 2016 16:19:23 -0600</pubDate>
+        <link>http://yourdomain.com/digitalarthistory/2016/09/02/Reproduction-of-Art-and-Reality.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/digitalarthistory/2016/09/02/Reproduction-of-Art-and-Reality.html</guid>
+        
+        
+        <category>digitalArtHistory</category>
+        
+      </item>
+    
+      <item>
+        <title>Power Your Sh**t And Synths</title>
+        <description>&lt;!-- ---
+layout: post
+title:  &quot;Power Your Sh**t and Synths&quot;
+date:   2016-03-31 13:20:38
+categories: practicalElectronics
+imageurl: &quot;media/2016-03-31-synthPlay.jpg&quot;
+---
+ --&gt;
+&lt;p&gt;This week we explored power.  Power is necessary to understand if you are going to be working with electronics.  There are two kinds of power that we see in our society.  These are called AC and DC.  AC stands for alternating current and   &lt;/p&gt;</description>
+        <pubDate>Thu, 31 Mar 2016 00:00:00 -0600</pubDate>
+        <link>http://yourdomain.com/2016/03/31/Power-Your-Sh-t-and-Synths.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/03/31/Power-Your-Sh-t-and-Synths.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Build Your Own Arduino</title>
         <description>	&lt;p&gt;Today we learned how to build our own Arduino by understanding the basis of what makes an arduino work: The ATMega328 microprocessor chip.  This chip is what allows us to program and control the arudino.&lt;/p&gt;  
 
-	&lt;p&gt;If you are used to working with the Arudino the ATMega328 chip will actually make a lot of sense and is fairly approachable to work with.  The pinout on the arduino is identical to the ATmega328 chip.  The only difference working with the chip is that you have to add your own resistance, capacitance, and will need an FTDI programer to program it, this is as long as it has the bootloader already loaded on.  If that is not the case you will need to take a few more steps, which we didn&#39;t walk through.&lt;/p&gt;
+	&lt;p&gt;If you are used to working with the Arduino the ATMega328 chip will actually make a lot of sense and is fairly approachable to work with.  The pinout on the arduino is identical to the ATmega328 chip.  The only difference working with the chip is that you have to add your own resistance, capacitance, and will need an FTDI programmer to program it, this is as long as it has the bootloader already loaded on.  If that is not the case you will need to take a few more steps, which we didn't walk through.&lt;/p&gt;
 
-	&lt;p&gt;The best reason for stripping the ATMega328 from the arduino is to be able to create a smaller ciruit or to be able to build your own circuit.  This is great when you are trying to minimize your footprint to fit your circuit into something small, or if you are building a large install and need to use multiple circuit boards which can get pretty expensive if you are buying multiple Arduinos at around $25.00 a pop.&lt;/p&gt;
+	&lt;p&gt;The best reason for stripping the ATMega328 from the arduino is to be able to create a smaller circuit or to be able to build your own circuit.  This is great when you are trying to minimize your footprint to fit your circuit into something small, or if you are building a large install and need to use multiple circuit boards which can get pretty expensive if you are buying multiple Arduinos at around $25.00 a pop.&lt;/p&gt;
 
 	&lt;p&gt;&lt;b&gt;Below is a video of the ATMega328 blinking an LED:&lt;/b&gt;&lt;/p&gt;
 
 
-	&lt;video align = &quot;middle&quot; width=&quot;288&quot; height=&quot;512&quot; controls &gt;
+	&lt;video width=&quot;288&quot; height=&quot;512&quot; controls &gt;
   	&lt;source src=&quot;/media/ATMegaBlink.mp4&quot; type=&quot;video/mp4&quot;&gt;
   	&lt;!-- &lt;source src=&quot;/media/Distortion_Pedal.webm&quot; type=&quot;video/webm&quot;&gt; --&gt;
 	Your browser does not support the video tag.
   	&lt;/video&gt;</description>
         <pubDate>Thu, 10 Mar 2016 09:19:48 -0700</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/03/10/Build-Your-Own-Arduino.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/03/10/Build-Your-Own-Arduino.html</guid>
+        <link>http://yourdomain.com/practicalelectronics/2016/03/10/Build-Your-Own-Arduino.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/practicalelectronics/2016/03/10/Build-Your-Own-Arduino.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>practicalElectronics</category>
         
       </item>
     
@@ -47,7 +87,7 @@
 
     &lt;p&gt;Multimeters are your friend!  Probably the most useful function of a multimeter is measuring continuity.  This function allows you to tell if your two points are connected.  If they are not connected then there is obviously something wrong with your circuit.  Multimeters can also measure resistance, voltage, and current!&lt;/p&gt;
 
-    &lt;p&gt;The other fun and awesome measurement tool is the Oscilliscope.  We took out this four channel oscilliscope and decided to use it to view the current coming out of the wall.  This is not something I recommend anyone to do that doesn&#39;t have someone who knows what they are doing with them.&lt;/p&gt; 
+    &lt;p&gt;The other fun and awesome measurement tool is the Oscilliscope.  We took out this four channel oscilliscope and decided to use it to view the current coming out of the wall.  This is not something I recommend anyone to do that doesn't have someone who knows what they are doing with them.&lt;/p&gt; 
 
     &lt;p&gt;Wayne had brought what he called a &quot;suicide chord&quot; in for show and tell.  This was just a plug with the ends cut off.  We hooked it up to a transformer and then measured the signal off of that.  The AC current out of the wall creates a beautiful sine wave.  We then added a capacitor into the equation and it caused the tops of the waves to get cut off.&lt;/p&gt;  
 
@@ -59,13 +99,11 @@
 
   &lt;/body&gt;</description>
         <pubDate>Thu, 18 Feb 2016 15:19:23 -0700</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/02/18/Measurements.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/02/18/Measurements.html</guid>
+        <link>http://yourdomain.com/practicalelectronics/2016/02/18/Measurements.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/practicalelectronics/2016/02/18/Measurements.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>practicalElectronics</category>
         
       </item>
     
@@ -90,13 +128,11 @@
 
   &lt;/body&gt;</description>
         <pubDate>Thu, 11 Feb 2016 15:19:23 -0700</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/02/11/555-Timers-and-Square-Waves.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/02/11/555-Timers-and-Square-Waves.html</guid>
+        <link>http://yourdomain.com/practicalelectronics/2016/02/11/555-Timers-and-Square-Waves.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/practicalelectronics/2016/02/11/555-Timers-and-Square-Waves.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>practicalElectronics</category>
         
       </item>
     
@@ -106,7 +142,7 @@
 
     &lt;!-- MAIN CONTENT --&gt;
     
-    &lt;p&gt;Transistors are at the basis of amplification.  With a transistor you can take a smaller voltage and increase it to a larger and workable voltage.  This is important if you are trying to take something like a weak audio signal and make it louder.  Many amps do multiple stages of this so that the noise floor doesn&#39;t carry into the final signal.  Transistors are what allow this amplification process to occur.   
+    &lt;p&gt;Transistors are at the basis of amplification.  With a transistor you can take a smaller voltage and increase it to a larger and workable voltage.  This is important if you are trying to take something like a weak audio signal and make it louder.  Many amps do multiple stages of this so that the noise floor doesn't carry into the final signal.  Transistors are what allow this amplification process to occur.   
 
     &lt;p&gt;There are two kinds of transistors, a bipolar transistor and a field effect transistor.  We mostly focused on the bipolar transistor. The bipolar transistor has three terminals, the emitter, base, and collector.  By turning the base on and off you can actually use the transistor as a switch. &lt;/p&gt;
 
@@ -122,13 +158,11 @@
 
   &lt;/body&gt;</description>
         <pubDate>Thu, 28 Jan 2016 15:19:23 -0700</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/01/28/Transistors-and-Distortion-Pedals.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/01/28/Transistors-and-Distortion-Pedals.html</guid>
+        <link>http://yourdomain.com/practicalelectronics/2016/01/28/Transistors-and-Distortion-Pedals.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/practicalelectronics/2016/01/28/Transistors-and-Distortion-Pedals.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>practicalElectronics</category>
         
       </item>
     
@@ -142,7 +176,7 @@
 
    &lt;p&gt;To begin to understand how an audio filter is built it is important to recognize this equation: $$fc = 1/2πRC$$ This is where $fc$ equals the cutoff frequency, $R$ equals the resistance, and $C$ equals the capacitance.  This equation demonstrates that by changing either the resistance or the capacitance that you are altering the cutoff frequency. If we add a potentiometer in series with a capacitor we can change the value of the cutoff frequency, by varying the resistance.&lt;/p&gt;
 
-   &lt;p&gt;Let&#39;s talk about potentiometers.  What is a potentiometer you ask?  Well a potentiometer is a variable resistor.  This means that it allows you to vary the amount of resistance just by turning a knob. There are four kinds of potentiometers. The two most common and most applicable to our purposes are: A log potentiometer which changes the amount of resistance by a logarithmic scale, and a linear potentiometer which changes the amount of resistance by a linear scale. The log potentiometer is the most commonly used potentiometer for audio related applications because audio loudness is typically measured logarithmically.&lt;/p&gt;
+   &lt;p&gt;Let's talk about potentiometers.  What is a potentiometer you ask?  Well a potentiometer is a variable resistor.  This means that it allows you to vary the amount of resistance just by turning a knob. There are four kinds of potentiometers. The two most common and most applicable to our purposes are: A log potentiometer which changes the amount of resistance by a logarithmic scale, and a linear potentiometer which changes the amount of resistance by a linear scale. The log potentiometer is the most commonly used potentiometer for audio related applications because audio loudness is typically measured logarithmically.&lt;/p&gt;
 
    &lt;p&gt;To change the filter from a highpass to a lowpass filter or vice versa all you need to do is change the location of the resistor in relationship to the capacitor.  If the resistor is before the capacitor in the circuit you have a low pass filter.  If it is after the capacitor you have a high pass filter.&lt;/p&gt;
 
@@ -155,13 +189,11 @@
 
   &lt;/body&gt;</description>
         <pubDate>Thu, 21 Jan 2016 15:19:23 -0700</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/01/21/Building-Analog-Audio-Filters.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/01/21/Building-Analog-Audio-Filters.html</guid>
+        <link>http://yourdomain.com/practicalelectronics/2016/01/21/Building-Analog-Audio-Filters.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/practicalelectronics/2016/01/21/Building-Analog-Audio-Filters.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>practicalElectronics</category>
         
       </item>
     
