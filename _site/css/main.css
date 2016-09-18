@@ -93,12 +93,15 @@ blockquote {
 /**
  * Code formatting
  */
-pre,
 code {
   font-size: 15px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
   background-color: #eef; }
+
+pre {
+  font-size: 15px;
+  border-radius: 3px; }
 
 code {
   padding: 1px 5px; }
@@ -148,8 +151,8 @@ pre {
     fill: #828282; }
 
 /**
- * Site header
- */
+* Site header
+*/
 .site-header {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
@@ -273,6 +276,12 @@ pre {
   list-style: none; }
   .post-list > li {
     margin-bottom: 5cm; }
+
+.post-list2 {
+  margin-left: 0;
+  list-style: none; }
+  .post-list2 > li {
+    margin-bottom: 1cm; }
 
 .post-meta {
   font-size: 14px;
