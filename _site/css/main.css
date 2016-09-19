@@ -94,10 +94,10 @@ blockquote {
  * Code formatting
  */
 code {
+  font-family: Helvetica;
   font-size: 15px;
   border: 1px solid #e8e8e8;
-  border-radius: 3px;
-  background-color: #eef; }
+  border-radius: 3px; }
 
 pre {
   font-size: 15px;
