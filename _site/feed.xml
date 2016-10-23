@@ -6,9 +6,63 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Oct 2016 14:23:13 -0600</pubDate>
-    <lastBuildDate>Sun, 02 Oct 2016 14:23:13 -0600</lastBuildDate>
+    <pubDate>Sun, 23 Oct 2016 15:03:26 -0600</pubDate>
+    <lastBuildDate>Sun, 23 Oct 2016 15:03:26 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>360 Revolution</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://creative.colorado.edu/~bolles/360revolution/index.html&quot;&gt;360 Revolution: A Curated 360-Degree Experience&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Oct 2016 09:00:00 -0600</pubDate>
+        <link>http://yourdomain.com/digitalarthistory/2016/10/23/360_Revolution.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/digitalarthistory/2016/10/23/360_Revolution.html</guid>
+        
+        
+        <category>digitalArtHistory</category>
+        
+      </item>
+    
+      <item>
+        <title>Time</title>
+        <description>&lt;p&gt;I have been thinking a lot the concept of time and the ways in which we perceive time in relationship to storytelling.  I have become recently inspired by hypertext electronic literature and the ways in which it breaks down the normal conception of how we tell stories in a linear fashion.  Hypertext is somewhat the choose your own adventure model; however, in many of the pieces I have been reading it becomes much more personal than that.  In Shelly Jackson’s My Body there is intimacy to the way the story reads.  It’s almost like you are within her mind and her thoughts.  You can travel through her thinking in a way that traditional timelines don’t allow.  How may I tell this story of Resonance seen through different lenses in a way where the timeline is broken apart, rewound, paused, and fast-forwarded? In our digital space we can do things with time that is impossible to do in our physical environment.  How can I use the digital space to manipulate the timelines within my story?&lt;/p&gt;
+</description>
+        <pubDate>Sat, 08 Oct 2016 04:18:23 -0600</pubDate>
+        <link>http://yourdomain.com/designstudio/2016/10/08/DSTime.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/designstudio/2016/10/08/DSTime.html</guid>
+        
+        
+        <category>designStudio</category>
+        
+      </item>
+    
+      <item>
+        <title>Lens</title>
+        <description>&lt;p&gt;Through this process I am recognizing themes that are arising.  One word that I am feeling particularly keen towards is “Lens”.  In going through this process of looking at a particular subject from the perspectives of different people within certain disciplines, I have found myself using the word “lens” to describe those perspectives.  I am beginning to question how can I visualize and/or sonify this experience of looking at the concept of resonance through different lenses?  What would those lenses look like?  What would they be?&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Oct 2016 06:18:23 -0600</pubDate>
+        <link>http://yourdomain.com/designstudio/2016/10/05/DSLens.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/designstudio/2016/10/05/DSLens.html</guid>
+        
+        
+        <category>designStudio</category>
+        
+      </item>
+    
+      <item>
+        <title>Tim Gulsrud</title>
+        <description>&lt;p&gt;I interviewed Tim Gulsrud who is a practicing acoustician.  This means he consults architectural firms in how to design buildings to best suit the acoustic needs of the client.  During our conversation while talking about using physics to understand how the sound is interacting with the physical space he said, “It gets so complicated so fast.  It shows you the limitations of the physics.  We might say, ‘We’ve got this figured out.  We’ve got this reverberation time equation, we’ve got these axial mode calculations, it’s simple math’… But the part of the spectrum where low frequency modes really happen is up to 100 HZ, I might calculate them up to 150 maybe 200 HZ depending on the size of the room, but beyond that it gets so complicated it’s just not worthwhile.  The math just breaks down.  The engineer might say, well don’t worry, all you have to worry about is up to 200HZ, but as an audio engineer if you said all I have to worry about is up to 200 HZ, that right there shows you the limitations of the math and that’s cutting edge acoustics.  It just becomes impractical.”  I found this statement interesting as it describes the ways in which science and math can really only take us so far in our understanding of the world around us.  At a certain point the tools don’t work and you have to rely on your human experience to make further decisions and analysis.  How can I demonstrate the limitations of science and where we must cross into the realm of art?&lt;/p&gt;
+
+&lt;p&gt;Another topic we talked in depth about was the exploration of standing waves within a room.  There is an experiment which involves placing a speaker at different locations in the room and exciting room modes.  “Room modes are the collection of resonances that exist in a room when the room is excited by an acoustic source such as a loudspeaker. Most rooms have their fundamental resonances in the 20 Hz to 200 Hz region, each frequency being related to one or more of the room’s dimension’s or a divisor thereof”, says Wikepedia.  You can experience these room modes by walking around the space during a time that a speaker is exciting one of the modes and at different places in the room you will hear a rise in the volume of sound and then a lowering in the volume.  I am wondering what kinds of interesting artistic effects may be explored in the excitation of room modes?  What can we explore in the peaks and null points?&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Oct 2016 12:18:23 -0600</pubDate>
+        <link>http://yourdomain.com/designstudio/2016/10/02/DSTim_Gulsrud.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/designstudio/2016/10/02/DSTim_Gulsrud.html</guid>
+        
+        
+        <category>designStudio</category>
+        
+      </item>
     
       <item>
         <title>Sara Ludy</title>
@@ -153,122 +207,6 @@ knowledge.
         <pubDate>Mon, 12 Sep 2016 16:18:23 -0600</pubDate>
         <link>http://yourdomain.com/designstudio/2016/09/12/Resonance.html</link>
         <guid isPermaLink="true">http://yourdomain.com/designstudio/2016/09/12/Resonance.html</guid>
-        
-        
-        <category>designStudio</category>
-        
-      </item>
-    
-      <item>
-        <title>Storytelling in the Digital Age</title>
-        <description>&lt;p&gt;In the digital space time becomes an object to be manipulated and controlled.  The linearity of storytelling is no longer a necessity.  As we move through our ‘reality’, whatever that may be, there is a clear past, present, and future that moves linearly.  Time has an order and the stories that we tell tend to reflect that order; however, as technology advances and new ways of exploring story telling devices emerge we begin to recognize that time is not always so direct.  When we recall events through exploring the landscape of our memories the lines that define that linear understanding of time start to blur, and what are we left with but a blanket of a past sensation and feeling with no precise timeline.&lt;/p&gt;
-
-&lt;p&gt;In Shelley Jackson’s piece My Body the evolution of the story seems reminiscent of walking through your own memory.  Memories don’t happen linearly.  You don’t think about your past recalling all moments in the order in which they happened.  Memories pop up at random times, in varied order, and sometimes you skip to another memory before you’ve fully reminisced in the memory you were currently remembering.  There is no concept of linearity when recalling your past other than a vague sense of the order in which certain events occurred.&lt;/p&gt;
-
-&lt;p&gt;My Body seems to speak to the natural nature in which a mind processes and perceives the world around us.  As you move through the links you find yourself randomly jumping between thoughts and memories, just as you might if you were naturally thinking about your life and past events.  There is an authenticity that seemingly lacks in the more ‘traditional’ methods of linear stories.&lt;/p&gt;
-
-&lt;p&gt;In Adrienne Eisen’s piece Six Sex Scenes there is that same feeling of being inside someone’s mind as they are thinking about and processing moments of their life.  Adrienne moves around different scenes that are more specific to memories or present occurrences.  In My Body there is deeper discussion of plain thought and reflections on life.  Still these two pieces strongly resemble the feeling of floating through your own mind. The story telling methods feel personal and intimate like you are glancing at the inner workings of someone’s thoughts.  You feel connected in a way that is unusual in other storytelling methods. You have been transported into the mind and feelings of the author or whatever character they are trying to present and you feel like you are getting to know all the secrets that they hold dear.&lt;/p&gt;
-
-&lt;p&gt;As technology has advanced so have the methods for capturing time, predicting future, and dissolving the present.  In our current digital-world we find that we can move beyond the linear nature we are so used to in our physical reality.  A story no longer has to have a beginning, middle, and end.  A story can be experienced as a collection of memories, moments, and pieces of history that can be influenced by your very interaction with that story.&lt;/p&gt;
-
-&lt;p&gt;In both Bob Arrelano’s Sunshine 69 and Donna Leischman’s redridinghood the stories become completely different depending on the interaction of the viewer.  There are different paths to choose and different stories to be told.  Again we are transported out of time to a place where multiple realities can and do exist.  The questions of what if are asked and the directions of choosing different paths are revealed.&lt;br /&gt;
-Again there is an authenticity to this method of storytelling as the story of one’s own life only unfolds due to the interactions and decisions that we make.  By offering the viewer an opportunity to influence the path the story takes, the author, creator, or whatever you wish to call the expressers of these digital narratives, allows the viewer to now be a participant.  In natural life we are all participants influencing the world depending on our actions.  No matter how greatly we wish to just be observers our presence alters every moment.  These stories truly demonstrate that natural state and force people to recognize that they are not just observers.&lt;/p&gt;
-
-&lt;p&gt;In the breakdown of time, digital storytelling has opened up a realm where we can begin to question our own interpretation of time within our own physical existence.  It begs to question why our natural thought processes don’t function linearly and yet the stories we tend to tell ourselves do.  Now as we break down the linearity of stories we open up routes to an intimacy that has struggled to be portrayed in past story telling methods.  We can step into someone else’s mind.&lt;/p&gt;
-
-&lt;p&gt;Currently, with the advent now of VR, the concept of presence is talked about as an important element of the future of storytelling.  If we can make someone feel like they are there in that place, interacting with their environment in the same way they would interact with their physical environment, maybe we can stimulate something within them that was unobtainable before?  As technology continues to advance how will the future of storytelling change and affect humanities perception of the world?&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 11 Sep 2016 15:20:00 -0600</pubDate>
-        <link>http://yourdomain.com/digitalarthistory/2016/09/11/Storytelling_in_the_Digital_Age.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/digitalarthistory/2016/09/11/Storytelling_in_the_Digital_Age.html</guid>
-        
-        
-        <category>digitalArtHistory</category>
-        
-      </item>
-    
-      <item>
-        <title>Irrational vs. Rational</title>
-        <description>&lt;body&gt;
-
-&lt;p&gt;Rationality is viewed as a virtue in our society.  It is a concept that most strive to achieve in their interactions in life.  We often find ourselves, when engaging with decisions, attempting to move towards the more rational choice; however, there are some feelings that are so completely irrational we can’t help but feel them.  Where do these feelings have a place?  Why do these feelings pull us in the directions that they do?&lt;/p&gt; 
-
-&lt;p&gt;I have never been one to strictly move within rational space.  I have many times gone for the irrational choice because it just felt right.  Yet I’m older now.  I’ve seen what some of those irrational choices can lead to.  And I don’t regret them.  I never would, but the irrational choice is usually not the easiest choice.&lt;/p&gt; 
-
-&lt;p&gt;It’s safer to live in a rational world.  With rationality comes logic and definition and a foreseen conclusion.  But this world isn’t rational.  We don’t live in the scientific model that we have constructed.  We live in a world where things can’t always be predicted.  We create rational models but we live in an irrational world.&lt;/p&gt;  
-
-&lt;p&gt;How have we defined what is reasonable?  If being rational is being reasonable then what is reason?  Where did we decide that certain actions or thoughts were reasonable while others were not?  Being rational is being influenced by reason and not emotions??? Why are emotions not reasonable? When did we decide that emotions were unreasonable or rather irrational?  Followed by that being rational is being of sound mind otherwise known as sane.  Is this to say that being influenced by emotion is not a sane way to interact and engage with life?&lt;/p&gt;
-
-&lt;p&gt;I find myself questioning rationality vs irrationality as I attempt to merge not only certain elements of science and art, but also the sides of myself that are more artistic and scientific.  The left and the right brain, as some may say. When integrating subjects there is always the challenge of finding the ways to communicate the connections that to you are so apparent, but there is also the challenge of balancing your own emotional being on two separate planes of existence. &lt;/p&gt; 
-
-&lt;p&gt;As an artist I find myself becoming lost in the outer reaches of my own reflections and thought.  There are times when I find it hard to return back to Earth.  Time becomes a variant and space dissolves.  I feel deeply emotional and connected to an ether otherwise invisible.&lt;/p&gt;
-
-&lt;p&gt;As a scientist I have both feet planted firmly on the ground.  Every detail of every task is adamantly apparent.  I observe things as they logically occur and refuse to act on emotion without fully analyzing the outcomes of my choices.  In this space I become a highly functional member of society, but I can’t help feeling there is something I am missing out on.&lt;/p&gt;
-
-&lt;p&gt;So as I devise my story I feel a love triangle between humanity, science, and art will need to be explored.  There is a struggle that exists when you operate on both planes, yet this struggle is what can lead you to the most innovative perceptions of life.&lt;/p&gt;
-
-&lt;img src=&quot;/media/2016-09-10-rational_4_3.jpg&quot; style=&quot;display: block; margin-left: auto; margin-right: auto&quot;&gt;
-&lt;/body&gt;
- 
-</description>
-        <pubDate>Sat, 10 Sep 2016 05:18:23 -0600</pubDate>
-        <link>http://yourdomain.com/designstudio/2016/09/10/DS_Irrational_Rational.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/designstudio/2016/09/10/DS_Irrational_Rational.html</guid>
-        
-        
-        <category>designStudio</category>
-        
-      </item>
-    
-      <item>
-        <title>Brainstorms</title>
-        <description>&lt;body&gt;
-
-&lt;p&gt;I had a solid brainstorming session, with my good friend Olivia, further working on the story development for my thesis project.  We got into a deep discussion of resonance and I realized that resonance is what I should be focusing on over harmonic motion.  While both are related concepts, resonance builds on harmonic motion as an expression of the relationships and connections between frequencies.  I was reminded of a poem I once wrote: &lt;/p&gt;
-
-&lt;pre style=&quot;text-align: center;&quot;&gt;
-I met you and we resonated.  
-Our frequencies matched.
-Constructive interference 
-The amplitude now your wave plus mine.
-Do you feel it.
-The way the energy soared. 
-When we walked into the room. 
-Together.
-In perfect time.
-&lt;/pre&gt;
-
-&lt;p&gt;I question how I can express this concept visually.  If two people staring at eachother from different worlds can see and recognize the connection that they share, how do others percieve this?  I now must reference another statement that I wrote:&lt;/p&gt;
-
-&lt;pre style=&quot;text-align:center&quot;&gt;
-There are moments when the wall between our paths becomes transparent and we see 
-each other standing there.  We reach out and for one brief second in time we 
-connect and for one brief moment I am reminded that I’m not alone.
-&lt;/pre&gt;
-
-&lt;p&gt;Sometimes in life there are people that you meet, that make life seem so much more grounded.  They remind you that it's not you who is the crazy one, but the world that does not know how to find a place for you.  This piece is just as much about &lt;b&gt;connection&lt;/b&gt; as anything else.  I can't forget about humanity.&lt;/p&gt;
-
-&lt;img src= &quot;/media/2016-09-09-DSBstorm1.jpg&quot;&gt;
-&lt;img src= &quot;/media/2016-09-09-DSBstorm2.jpg&quot;&gt;
-
-&lt;/body&gt;</description>
-        <pubDate>Fri, 09 Sep 2016 05:18:23 -0600</pubDate>
-        <link>http://yourdomain.com/designstudio/2016/09/09/DSBrainstorms.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/designstudio/2016/09/09/DSBrainstorms.html</guid>
-        
-        
-        <category>designStudio</category>
-        
-      </item>
-    
-      <item>
-        <title>Immersivity</title>
-        <description>&lt;p&gt;When I was little I used to wake up to hearing someone playing piano.  I would walk downstairs and nobody would be there.  I have always heard melodies constantly playing in my mind.  I have always seen vivid visual images.  I have always wanted to get them out of mind.  These experiences for me feel very immersive.  If I close my eyes I can see and hear things to the point I feel the experience all over my body.  I have always wanted to share this feeling with other people.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 07 Sep 2016 05:18:23 -0600</pubDate>
-        <link>http://yourdomain.com/designstudio/2016/09/07/DSImmersive.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/designstudio/2016/09/07/DSImmersive.html</guid>
         
         
         <category>designStudio</category>
